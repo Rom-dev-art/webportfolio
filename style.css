@@ -24,6 +24,9 @@ html{
 	background-size: cover;
 	background-position: top center;
 }
+#Education{
+	list-style: none;
+}
 /* #profile{ 
 	background-image: url(./Images/Screen.jpg);
 	background-size: cover;
